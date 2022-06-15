@@ -1,0 +1,595 @@
+
+2022-06-07 07:27:55...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:28:59...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:29:20...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:32:39...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:35:13...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:37:02...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:37:03...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:37:07...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:39:09...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:39:59...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:40:05...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:40:16...Begin System Check Process *************
+2022-06-07 07:40:16...XML Parsing Support Found
+2022-06-07 07:40:16...MBString Support Found
+2022-06-07 07:40:16...ZIP Support Found
+2022-06-07 07:40:16.../custom directory and subdirectory check passed
+2022-06-07 07:40:16...cache directory and subdirectory check passed
+2022-06-07 07:40:18.../module  directory and subdirectory check passed
+2022-06-07 07:40:18.../upload directory check passed
+2022-06-07 07:40:18.../zip check passed
+2022-06-07 07:40:18...PCRE version check passed
+2022-06-07 07:40:18...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:40:18...php.ini location found. C:\Server\bin\apache\apache2.4.51\bin\php.ini
+2022-06-07 07:40:18...Outputting HTML for System check
+2022-06-07 07:40:18...No Errors were found *************
+2022-06-07 07:40:21...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:41:35...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:41:37...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:41:49...Begin DB Check Process *************
+2022-06-07 07:41:49...testing with mysql:mysqli
+2022-06-07 07:41:49...Basic form info is valid, continuing Process.
+2022-06-07 07:41:49...Testing user account...
+2022-06-07 07:41:49...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 07:41:49...Testing priviliged account...
+2022-06-07 07:41:49...Connection made using  host: localhost, usr: vanthanhduc2000
+2022-06-07 07:41:49...DB not selected, will create sugarcrm
+2022-06-07 07:41:49...ERROR:: Unable to check database version.
+2022-06-07 07:41:49...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2022-06-07 07:41:49..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 07:41:49..... Unable to check database version.
+2022-06-07 07:41:49...End DB Check Process *************
+2022-06-07 07:42:00...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:42:01...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:42:03...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:42:17...Begin System Check Process *************
+2022-06-07 07:42:17...XML Parsing Support Found
+2022-06-07 07:42:17...MBString Support Found
+2022-06-07 07:42:17...ZIP Support Found
+2022-06-07 07:42:17.../custom directory and subdirectory check passed
+2022-06-07 07:42:17...cache directory and subdirectory check passed
+2022-06-07 07:42:21.../module  directory and subdirectory check passed
+2022-06-07 07:42:21.../upload directory check passed
+2022-06-07 07:42:21.../zip check passed
+2022-06-07 07:42:21...PCRE version check passed
+2022-06-07 07:42:21...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:42:21...php.ini location found. C:\Server\bin\apache\apache2.4.51\bin\php.ini
+2022-06-07 07:42:21...Outputting HTML for System check
+2022-06-07 07:42:21...No Errors were found *************
+2022-06-07 07:42:23...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:42:26...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:42:28...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 07:43:56...Begin DB Check Process *************
+2022-06-07 07:43:56...testing with mysql:mysqli
+2022-06-07 07:43:56...Basic form info is valid, continuing Process.
+2022-06-07 07:43:56...Testing user account...
+2022-06-07 07:43:56...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 07:43:56...Testing priviliged account...
+2022-06-07 07:43:56...Connection made using  host: localhost, usr: root
+2022-06-07 07:43:56...DB not selected, will create sugarcrm
+2022-06-07 07:43:56...ERROR:: Unable to check database version.
+2022-06-07 07:43:56...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2022-06-07 07:43:56..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 07:43:56..... Unable to check database version.
+2022-06-07 07:43:56...End DB Check Process *************
+2022-06-07 08:05:00...Begin DB Check Process *************
+2022-06-07 08:05:00...testing with mysql:mysqli
+2022-06-07 08:05:00...Basic form info is valid, continuing Process.
+2022-06-07 08:05:00...Testing user account...
+2022-06-07 08:05:00...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 08:05:00...Testing priviliged account...
+2022-06-07 08:05:00...Connection made using  host: localhost, usr: root
+2022-06-07 08:05:00...DB not selected, will create sugarcrm
+2022-06-07 08:05:00...ERROR:: Unable to check database version.
+2022-06-07 08:05:00...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2022-06-07 08:05:00..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 08:05:00..... Unable to check database version.
+2022-06-07 08:05:00...End DB Check Process *************
+2022-06-07 08:17:46...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 08:17:55...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 08:17:59...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 08:18:01...Begin System Check Process *************
+2022-06-07 08:18:01...XML Parsing Support Found
+2022-06-07 08:18:01...MBString Support Found
+2022-06-07 08:18:01...ZIP Support Found
+2022-06-07 08:18:01.../custom directory and subdirectory check passed
+2022-06-07 08:18:01...cache directory and subdirectory check passed
+2022-06-07 08:18:03.../module  directory and subdirectory check passed
+2022-06-07 08:18:03.../upload directory check passed
+2022-06-07 08:18:03.../zip check passed
+2022-06-07 08:18:03...PCRE version check passed
+2022-06-07 08:18:03...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 08:18:03...php.ini location found. C:\Server\bin\apache\apache2.4.51\bin\php.ini
+2022-06-07 08:18:03...Outputting HTML for System check
+2022-06-07 08:18:03...No Errors were found *************
+2022-06-07 08:18:06...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 08:18:16...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 08:18:35...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 08:18:41...Begin DB Check Process *************
+2022-06-07 08:18:41...testing with mysql:mysqli
+2022-06-07 08:18:41...Basic form info is valid, continuing Process.
+2022-06-07 08:18:41...Testing user account...
+2022-06-07 08:18:41...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 08:18:41...Testing priviliged account...
+2022-06-07 08:18:41...Connection made using  host: localhost, usr: root
+2022-06-07 08:18:41...DB not selected, will create sugarcrm
+2022-06-07 08:18:41...ERROR:: Unable to check database version.
+2022-06-07 08:18:41...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2022-06-07 08:18:41..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 08:18:41..... Unable to check database version.
+2022-06-07 08:18:41...End DB Check Process *************
+2022-06-07 17:27:11...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 17:27:14...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 17:27:27...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 17:27:30...Begin System Check Process *************
+2022-06-07 17:27:30...XML Parsing Support Found
+2022-06-07 17:27:30...MBString Support Found
+2022-06-07 17:27:30...ZIP Support Found
+2022-06-07 17:27:30.../custom directory and subdirectory check passed
+2022-06-07 17:27:30...cache directory and subdirectory check passed
+2022-06-07 17:27:31.../module  directory and subdirectory check passed
+2022-06-07 17:27:31.../upload directory check passed
+2022-06-07 17:27:31.../zip check passed
+2022-06-07 17:27:31...PCRE version check passed
+2022-06-07 17:27:31...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 17:27:31...php.ini location found. C:\Server\bin\apache\apache2.4.51\bin\php.ini
+2022-06-07 17:27:31...Outputting HTML for System check
+2022-06-07 17:27:31...No Errors were found *************
+2022-06-07 17:27:34...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 17:27:37...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 17:27:39...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 17:27:54...Begin DB Check Process *************
+2022-06-07 17:27:54...testing with mysql:mysqli
+2022-06-07 17:27:54...Basic form info is valid, continuing Process.
+2022-06-07 17:27:54...Testing user account...
+2022-06-07 17:27:54...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 17:27:54...Testing priviliged account...
+2022-06-07 17:27:54...Connection made using  host: localhost, usr: root
+2022-06-07 17:27:54...DB not selected, will create sugarcrm
+2022-06-07 17:27:54...ERROR:: Unable to check database version.
+2022-06-07 17:27:54...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2022-06-07 17:27:54..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 17:27:54..... Unable to check database version.
+2022-06-07 17:27:54...End DB Check Process *************
+2022-06-07 18:09:13...Begin DB Check Process *************
+2022-06-07 18:09:13...testing with mysql:mysqli
+2022-06-07 18:09:13...Basic form info is valid, continuing Process.
+2022-06-07 18:09:13...Testing user account...
+2022-06-07 18:09:13...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 18:09:13...Testing priviliged account...
+2022-06-07 18:09:13...Connection made using  host: localhost, usr: root
+2022-06-07 18:09:13...DB not selected, will create sugarcrm
+2022-06-07 18:09:13...ERROR:: Unable to check database version.
+2022-06-07 18:09:13...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2022-06-07 18:09:13..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 18:09:13..... Unable to check database version.
+2022-06-07 18:09:13...End DB Check Process *************
+2022-06-07 18:09:36...Begin DB Check Process *************
+2022-06-07 18:09:36...testing with mysql:mysqli
+2022-06-07 18:09:36...Basic form info is valid, continuing Process.
+2022-06-07 18:09:36...Testing user account...
+2022-06-07 18:09:36...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 18:09:36...Testing priviliged account...
+2022-06-07 18:09:36...Connection made using  host: localhost, usr: root
+2022-06-07 18:09:36...DB not selected, will create sugarcrm
+2022-06-07 18:09:36...ERROR:: Unable to check database version.
+2022-06-07 18:09:36...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2022-06-07 18:09:36..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 18:09:36..... Unable to check database version.
+2022-06-07 18:09:36...End DB Check Process *************
+2022-06-07 18:09:43...Begin DB Check Process *************
+2022-06-07 18:09:43...testing with mysql:mysqli
+2022-06-07 18:09:43...Basic form info is valid, continuing Process.
+2022-06-07 18:09:43...Testing user account...
+2022-06-07 18:09:43...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 18:09:43...Testing priviliged account...
+2022-06-07 18:09:43...Connection made using  host: localhost, usr: root
+2022-06-07 18:09:43...DB not selected, will create sugarcrm
+2022-06-07 18:09:43...ERROR:: Unable to check database version.
+2022-06-07 18:09:43...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2022-06-07 18:09:43..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 18:09:43..... Unable to check database version.
+2022-06-07 18:09:43...End DB Check Process *************
+2022-06-07 18:09:49...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 18:09:52...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 18:09:56...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 18:09:58...Begin System Check Process *************
+2022-06-07 18:09:58...XML Parsing Support Found
+2022-06-07 18:09:58...MBString Support Found
+2022-06-07 18:09:58...ZIP Support Found
+2022-06-07 18:09:58.../custom directory and subdirectory check passed
+2022-06-07 18:09:58...cache directory and subdirectory check passed
+2022-06-07 18:09:59.../module  directory and subdirectory check passed
+2022-06-07 18:09:59.../upload directory check passed
+2022-06-07 18:09:59.../zip check passed
+2022-06-07 18:09:59...PCRE version check passed
+2022-06-07 18:09:59...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 18:09:59...php.ini location found. C:\Server\bin\apache\apache2.4.51\bin\php.ini
+2022-06-07 18:09:59...Outputting HTML for System check
+2022-06-07 18:09:59...No Errors were found *************
+2022-06-07 18:10:01...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 18:10:04...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 18:10:06...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 18:10:15...Begin DB Check Process *************
+2022-06-07 18:10:15...testing with mysql:mysqli
+2022-06-07 18:10:15...Basic form info is valid, continuing Process.
+2022-06-07 18:10:15...Testing user account...
+2022-06-07 18:10:15...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 18:10:15...Testing priviliged account...
+2022-06-07 18:10:15...Connection made using  host: localhost, usr: root
+2022-06-07 18:10:15...DB not selected, will create sugarcrm
+2022-06-07 18:10:15...ERROR:: Unable to check database version.
+2022-06-07 18:10:15...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2022-06-07 18:10:15..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 18:10:15..... Unable to check database version.
+2022-06-07 18:10:15...End DB Check Process *************
+2022-06-07 18:10:40...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 18:10:44...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 18:10:48...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 18:10:49...Begin System Check Process *************
+2022-06-07 18:10:49...XML Parsing Support Found
+2022-06-07 18:10:49...MBString Support Found
+2022-06-07 18:10:49...ZIP Support Found
+2022-06-07 18:10:49.../custom directory and subdirectory check passed
+2022-06-07 18:10:49...cache directory and subdirectory check passed
+2022-06-07 18:10:50.../module  directory and subdirectory check passed
+2022-06-07 18:10:50.../upload directory check passed
+2022-06-07 18:10:50.../zip check passed
+2022-06-07 18:10:50...PCRE version check passed
+2022-06-07 18:10:50...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 18:10:50...php.ini location found. C:\Server\bin\apache\apache2.4.51\bin\php.ini
+2022-06-07 18:10:50...Outputting HTML for System check
+2022-06-07 18:10:50...No Errors were found *************
+2022-06-07 18:10:53...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 18:10:55...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 18:10:57...installerHook: Could not find custom/install/install_hooks.php
+2022-06-07 18:11:09...Begin DB Check Process *************
+2022-06-07 18:11:09...testing with mysql:mysqli
+2022-06-07 18:11:09...Basic form info is valid, continuing Process.
+2022-06-07 18:11:09...Testing user account...
+2022-06-07 18:11:09...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 18:11:09...Testing priviliged account...
+2022-06-07 18:11:09...Connection made using  host: localhost, usr: root
+2022-06-07 18:11:09...DB not selected, will create sugarcrm
+2022-06-07 18:11:09...ERROR:: Unable to check database version.
+2022-06-07 18:11:09...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2022-06-07 18:11:09..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 18:11:09..... Unable to check database version.
+2022-06-07 18:11:09...End DB Check Process *************
+2022-06-07 18:11:51...Begin DB Check Process *************
+2022-06-07 18:11:51...testing with mysql:mysqli
+2022-06-07 18:11:51...Basic form info is valid, continuing Process.
+2022-06-07 18:11:51...Testing user account...
+2022-06-07 18:11:51...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 18:11:51...Testing priviliged account...
+2022-06-07 18:11:51...Connection made using  host: localhost, usr: root
+2022-06-07 18:11:51...DB not selected, will create sugarcrm
+2022-06-07 18:11:51...ERROR:: Unable to check database version.
+2022-06-07 18:11:51...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2022-06-07 18:11:51..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 18:11:51..... Unable to check database version.
+2022-06-07 18:11:51...End DB Check Process *************
+2022-06-07 18:12:24...Begin DB Check Process *************
+2022-06-07 18:12:24...testing with mysql:mysqli
+2022-06-07 18:12:24...Basic form info is valid, continuing Process.
+2022-06-07 18:12:24...Testing user account...
+2022-06-07 18:12:24...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 18:12:24...Testing priviliged account...
+2022-06-07 18:12:24...Connection made using  host: localhost, usr: root
+2022-06-07 18:12:24...DB not selected, will create sugarcrm
+2022-06-07 18:12:24...ERROR:: Unable to check database version.
+2022-06-07 18:12:24...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2022-06-07 18:12:24..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 18:12:24..... Unable to check database version.
+2022-06-07 18:12:24...End DB Check Process *************
+2022-06-07 18:12:37...Begin DB Check Process *************
+2022-06-07 18:12:37...testing with mysql:mysqli
+2022-06-07 18:12:37...Basic form info is valid, continuing Process.
+2022-06-07 18:12:37...Testing user account...
+2022-06-07 18:12:37...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 18:12:37...Testing priviliged account...
+2022-06-07 18:12:37...Connection made using  host: localhost, usr: root
+2022-06-07 18:12:37...DB not selected, will create sugarcrm
+2022-06-07 18:12:37...ERROR:: Unable to check database version.
+2022-06-07 18:12:37...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2022-06-07 18:12:37..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-07 18:12:37..... Unable to check database version.
+2022-06-07 18:12:37...End DB Check Process *************
+2022-06-08 04:23:04...installerHook: Could not find custom/install/install_hooks.php
+2022-06-08 04:23:06...installerHook: Could not find custom/install/install_hooks.php
+2022-06-08 04:23:09...installerHook: Could not find custom/install/install_hooks.php
+2022-06-08 04:23:12...Begin System Check Process *************
+2022-06-08 04:23:12...XML Parsing Support Found
+2022-06-08 04:23:12...MBString Support Found
+2022-06-08 04:23:12...ZIP Support Found
+2022-06-08 04:23:12.../custom directory and subdirectory check passed
+2022-06-08 04:23:12...cache directory and subdirectory check passed
+2022-06-08 04:23:15.../module  directory and subdirectory check passed
+2022-06-08 04:23:15.../upload directory check passed
+2022-06-08 04:23:15.../zip check passed
+2022-06-08 04:23:15...PCRE version check passed
+2022-06-08 04:23:15...installerHook: Could not find custom/install/install_hooks.php
+2022-06-08 04:23:15...php.ini location found. C:\Server\bin\apache\apache2.4.51\bin\php.ini
+2022-06-08 04:23:15...Outputting HTML for System check
+2022-06-08 04:23:15...No Errors were found *************
+2022-06-08 04:23:17...installerHook: Could not find custom/install/install_hooks.php
+2022-06-08 04:23:19...installerHook: Could not find custom/install/install_hooks.php
+2022-06-08 04:23:21...installerHook: Could not find custom/install/install_hooks.php
+2022-06-08 04:23:28...Begin DB Check Process *************
+2022-06-08 04:23:28...testing with mysql:mysqli
+2022-06-08 04:23:28...Basic form info is valid, continuing Process.
+2022-06-08 04:23:28...Testing user account...
+2022-06-08 04:23:28...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-08 04:23:28...Testing priviliged account...
+2022-06-08 04:23:28...Connection made using  host: localhost, usr: root
+2022-06-08 04:23:28...DB not selected, will create sugarcrm
+2022-06-08 04:23:28...ERROR:: Unable to check database version.
+2022-06-08 04:23:28...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2022-06-08 04:23:28..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-08 04:23:28..... Unable to check database version.
+2022-06-08 04:23:28...End DB Check Process *************
+2022-06-08 04:23:51...Begin DB Check Process *************
+2022-06-08 04:23:51...testing with mysql:mysqli
+2022-06-08 04:23:51...Basic form info is valid, continuing Process.
+2022-06-08 04:23:51...Testing user account...
+2022-06-08 04:23:51...ERROR::  The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-08 04:23:51...Testing priviliged account...
+2022-06-08 04:23:51...Connection made using  host: localhost, usr: root
+2022-06-08 04:23:51...DB not selected, will create sugarcrm
+2022-06-08 04:23:51...ERROR:: Unable to check database version.
+2022-06-08 04:23:51...FATAL:: errors have been detected!  User will not be allowed to continue.  Errors are as follow:
+2022-06-08 04:23:51..... The provided database host, username, and/or password is invalid, and a connection to the database could not be established.  Please enter a valid host, username and password
+2022-06-08 04:23:51..... Unable to check database version.
+2022-06-08 04:23:51...End DB Check Process *************
+2022-06-08 05:22:47...installerHook: Could not find custom/install/install_hooks.php
+2022-06-08 05:22:47...installerHook: Could not find custom/install/install_hooks.php
+2022-06-08 05:22:52...installerHook: Could not find custom/install/install_hooks.php
+2022-06-08 05:22:56...installerHook: Could not find custom/install/install_hooks.php
+2022-06-08 05:22:59...Begin System Check Process *************
+2022-06-08 05:22:59...XML Parsing Support Found
+2022-06-08 05:22:59...MBString Support Found
+2022-06-08 05:22:59...ZIP Support Found
+2022-06-08 05:22:59.../custom directory and subdirectory check passed
+2022-06-08 05:22:59...cache directory and subdirectory check passed
+2022-06-08 05:23:03.../module  directory and subdirectory check passed
+2022-06-08 05:23:03.../upload directory check passed
+2022-06-08 05:23:03.../zip check passed
+2022-06-08 05:23:03...PCRE version check passed
+2022-06-08 05:23:03...installerHook: Could not find custom/install/install_hooks.php
+2022-06-08 05:23:03...php.ini location found. C:\Server\bin\apache\apache2.4.51\bin\php.ini
+2022-06-08 05:23:03...Outputting HTML for System check
+2022-06-08 05:23:03...No Errors were found *************
+2022-06-08 05:23:06...installerHook: Could not find custom/install/install_hooks.php
+2022-06-08 05:23:09...installerHook: Could not find custom/install/install_hooks.php
+2022-06-08 05:23:14...installerHook: Could not find custom/install/install_hooks.php
+2022-06-08 05:23:18...Begin DB Check Process *************
+2022-06-08 05:23:18...testing with mysql:mysqli
+2022-06-08 05:23:18...Basic form info is valid, continuing Process.
+2022-06-08 05:23:18...Testing user account...
+2022-06-08 05:23:18...Connection made using  host: localhost, usr: root
+2022-06-08 05:23:18...Testing priviliged account...
+2022-06-08 05:23:18...Connection made using  host: localhost, usr: root
+2022-06-08 05:23:18...ERROR:: The provided Database Name already exists.  You can<br>1.  hit the back button and choose a new database name <br>2.  click next and continue but all existing tables on this database will be dropped.  <strong>This means your tables and data will be blown away.</strong>
+2022-06-08 05:23:18...Passed DB install check
+2022-06-08 05:23:18...WARNING:: no errors detected, but DB tables will be dropped!, issuing warning to user
+2022-06-08 05:23:18...End DB Check Process *************
+2022-06-08 05:23:21...installerHook: Could not find custom/install/install_hooks.php
+2022-06-08 05:25:45...installerHook: Could not find custom/install/install_hooks.php
+2022-06-08 05:25:55...installerHook: Could not find custom/install/install_hooks.php
+2022-06-08 05:25:55...calling handleSugarConfig()
+2022-06-08 05:25:55...calling handleLog4Php()
+2022-06-08 05:25:55...calling handleHtaccess()
+2022-06-08 05:25:55...calling handleDbCharsetCollation()
+2022-06-08 05:25:56...looping through all the Beans and create their tables
+2022-06-08 05:25:56...processing table acl_actions
+2022-06-08 05:25:56...dropping table acl_actions
+2022-06-08 05:25:56...creating table acl_actions
+2022-06-08 05:25:56...creating Relationship Meta for ACLAction
+2022-06-08 05:25:56...processing table acl_roles
+2022-06-08 05:25:56...dropping table acl_roles
+2022-06-08 05:25:56...creating table acl_roles
+2022-06-08 05:25:56...creating Relationship Meta for ACLRole
+2022-06-08 05:25:56...processing table relationships
+2022-06-08 05:25:56...dropping table relationships
+2022-06-08 05:25:56...creating table relationships
+2022-06-08 05:25:56...creating Relationship Meta for Relationship
+2022-06-08 05:25:56...processing table leads
+2022-06-08 05:25:56...dropping table leads
+2022-06-08 05:25:56...creating table leads
+2022-06-08 05:25:56...creating Relationship Meta for Lead
+2022-06-08 05:25:57...processing table cases
+2022-06-08 05:25:57...dropping table cases
+2022-06-08 05:25:57...creating table cases
+2022-06-08 05:25:57...creating Relationship Meta for Case
+2022-06-08 05:25:57...processing table bugs
+2022-06-08 05:25:57...dropping table bugs
+2022-06-08 05:25:57...creating table bugs
+2022-06-08 05:25:57...creating Relationship Meta for Bug
+2022-06-08 05:25:57...processing table users
+2022-06-08 05:25:57...dropping table users
+2022-06-08 05:25:57...creating table users
+2022-06-08 05:25:57...creating Relationship Meta for User
+2022-06-08 05:25:57...processing table campaign_log
+2022-06-08 05:25:57...dropping table campaign_log
+2022-06-08 05:25:57...creating table campaign_log
+2022-06-08 05:25:57...creating Relationship Meta for CampaignLog
+2022-06-08 05:25:57...processing table project
+2022-06-08 05:25:57...dropping table project
+2022-06-08 05:25:57...creating table project
+2022-06-08 05:25:57...creating Relationship Meta for Project
+2022-06-08 05:25:57...processing table project_task
+2022-06-08 05:25:57...dropping table project_task
+2022-06-08 05:25:57...creating table project_task
+2022-06-08 05:25:57...creating Relationship Meta for ProjectTask
+2022-06-08 05:25:57...processing table campaigns
+2022-06-08 05:25:57...dropping table campaigns
+2022-06-08 05:25:57...creating table campaigns
+2022-06-08 05:25:57...creating Relationship Meta for Campaign
+2022-06-08 05:25:57...processing table prospect_lists
+2022-06-08 05:25:57...dropping table prospect_lists
+2022-06-08 05:25:57...creating table prospect_lists
+2022-06-08 05:25:57...creating Relationship Meta for ProspectList
+2022-06-08 05:25:57...processing table prospects
+2022-06-08 05:25:57...dropping table prospects
+2022-06-08 05:25:57...creating table prospects
+2022-06-08 05:25:57...creating Relationship Meta for Prospect
+2022-06-08 05:25:57...processing table email_marketing
+2022-06-08 05:25:57...dropping table email_marketing
+2022-06-08 05:25:57...creating table email_marketing
+2022-06-08 05:25:57...creating Relationship Meta for EmailMarketing
+2022-06-08 05:25:57...processing table campaign_trkrs
+2022-06-08 05:25:57...dropping table campaign_trkrs
+2022-06-08 05:25:57...creating table campaign_trkrs
+2022-06-08 05:25:57...creating Relationship Meta for CampaignTracker
+2022-06-08 05:25:57...processing table releases
+2022-06-08 05:25:57...dropping table releases
+2022-06-08 05:25:58...creating table releases
+2022-06-08 05:25:58...creating Relationship Meta for Release
+2022-06-08 05:25:58...processing table emailman
+2022-06-08 05:25:58...dropping table emailman
+2022-06-08 05:25:58...creating table emailman
+2022-06-08 05:25:58...creating Relationship Meta for EmailMan
+2022-06-08 05:25:58...processing table schedulers
+2022-06-08 05:25:58...dropping table schedulers
+2022-06-08 05:25:58...creating table schedulers
+2022-06-08 05:25:58...creating Relationship Meta for Scheduler
+2022-06-08 05:25:58...processing table job_queue
+2022-06-08 05:25:58...dropping table job_queue
+2022-06-08 05:25:58...creating table job_queue
+2022-06-08 05:25:58...creating Relationship Meta for SchedulersJob
+2022-06-08 05:25:58...processing table contacts
+2022-06-08 05:25:58...dropping table contacts
+2022-06-08 05:25:58...creating table contacts
+2022-06-08 05:25:58...creating Relationship Meta for Contact
+2022-06-08 05:25:58...processing table accounts
+2022-06-08 05:25:58...dropping table accounts
+2022-06-08 05:25:58...creating table accounts
+2022-06-08 05:25:58...creating Relationship Meta for Account
+2022-06-08 05:25:58...processing table opportunities
+2022-06-08 05:25:58...dropping table opportunities
+2022-06-08 05:25:58...creating table opportunities
+2022-06-08 05:25:58...creating Relationship Meta for Opportunity
+2022-06-08 05:25:58...processing table email_templates
+2022-06-08 05:25:58...dropping table email_templates
+2022-06-08 05:25:58...creating table email_templates
+2022-06-08 05:25:58...creating Relationship Meta for EmailTemplate
+2022-06-08 05:25:58...processing table notes
+2022-06-08 05:25:58...dropping table notes
+2022-06-08 05:25:58...creating table notes
+2022-06-08 05:25:58...creating Relationship Meta for Note
+2022-06-08 05:25:58...processing table calls
+2022-06-08 05:25:58...dropping table calls
+2022-06-08 05:25:58...creating table calls
+2022-06-08 05:25:58...creating Relationship Meta for Call
+2022-06-08 05:25:58...processing table emails
+2022-06-08 05:25:58...dropping table emails
+2022-06-08 05:25:58...creating table emails
+2022-06-08 05:25:58...creating Relationship Meta for Email
+2022-06-08 05:25:59...processing table meetings
+2022-06-08 05:25:59...dropping table meetings
+2022-06-08 05:25:59...creating table meetings
+2022-06-08 05:25:59...creating Relationship Meta for Meeting
+2022-06-08 05:25:59...processing table tasks
+2022-06-08 05:25:59...dropping table tasks
+2022-06-08 05:25:59...creating table tasks
+2022-06-08 05:25:59...creating Relationship Meta for Task
+2022-06-08 05:25:59...processing table users
+2022-06-08 05:25:59...processing table users
+2022-06-08 05:25:59...processing table currencies
+2022-06-08 05:25:59...dropping table currencies
+2022-06-08 05:25:59...creating table currencies
+2022-06-08 05:25:59...creating Relationship Meta for Currency
+2022-06-08 05:25:59...processing table tracker
+2022-06-08 05:25:59...dropping table tracker
+2022-06-08 05:25:59...creating table tracker
+2022-06-08 05:25:59...creating Relationship Meta for Tracker
+2022-06-08 05:25:59...processing table import_maps
+2022-06-08 05:25:59...dropping table import_maps
+2022-06-08 05:25:59...creating table import_maps
+2022-06-08 05:25:59...creating Relationship Meta for ImportMap
+2022-06-08 05:25:59...processing table users_last_import
+2022-06-08 05:25:59...dropping table users_last_import
+2022-06-08 05:25:59...creating table users_last_import
+2022-06-08 05:25:59...creating Relationship Meta for UsersLastImport
+2022-06-08 05:25:59...processing table config
+2022-06-08 05:25:59...dropping table config
+2022-06-08 05:25:59...creating table config
+2022-06-08 05:25:59...creating Relationship Meta for Administration
+2022-06-08 05:25:59...processing table upgrade_history
+2022-06-08 05:25:59...dropping table upgrade_history
+2022-06-08 05:25:59...creating table upgrade_history
+2022-06-08 05:25:59...creating Relationship Meta for UpgradeHistory
+2022-06-08 05:25:59...processing table vcals
+2022-06-08 05:25:59...dropping table vcals
+2022-06-08 05:25:59...creating table vcals
+2022-06-08 05:25:59...creating Relationship Meta for vCal
+2022-06-08 05:25:59...processing table versions
+2022-06-08 05:25:59...dropping table versions
+2022-06-08 05:25:59...creating table versions
+2022-06-08 05:25:59...creating Relationship Meta for Version
+2022-06-08 05:25:59...processing table roles
+2022-06-08 05:25:59...dropping table roles
+2022-06-08 05:25:59...creating table roles
+2022-06-08 05:25:59...creating Relationship Meta for Role
+2022-06-08 05:25:59...processing table documents
+2022-06-08 05:25:59...dropping table documents
+2022-06-08 05:25:59...creating table documents
+2022-06-08 05:25:59...creating Relationship Meta for Document
+2022-06-08 05:25:59...processing table document_revisions
+2022-06-08 05:25:59...dropping table document_revisions
+2022-06-08 05:25:59...creating table document_revisions
+2022-06-08 05:25:59...creating Relationship Meta for DocumentRevision
+2022-06-08 05:25:59...processing table fields_meta_data
+2022-06-08 05:25:59...dropping table fields_meta_data
+2022-06-08 05:25:59...creating table fields_meta_data
+2022-06-08 05:25:59...creating Relationship Meta for FieldsMetaData
+2022-06-08 05:25:59...processing table inbound_email
+2022-06-08 05:25:59...dropping table inbound_email
+2022-06-08 05:25:59...creating table inbound_email
+2022-06-08 05:25:59...creating Relationship Meta for InboundEmail
+2022-06-08 05:25:59...processing table saved_search
+2022-06-08 05:25:59...dropping table saved_search
+2022-06-08 05:25:59...creating table saved_search
+2022-06-08 05:25:59...creating Relationship Meta for SavedSearch
+2022-06-08 05:25:59...processing table user_preferences
+2022-06-08 05:25:59...dropping table user_preferences
+2022-06-08 05:25:59...creating table user_preferences
+2022-06-08 05:25:59...creating Relationship Meta for UserPreference
+2022-06-08 05:25:59...processing table 
+2022-06-08 05:25:59...processing table email_addresses
+2022-06-08 05:25:59...dropping table email_addresses
+2022-06-08 05:26:00...creating table email_addresses
+2022-06-08 05:26:00...creating Relationship Meta for EmailAddress
+2022-06-08 05:26:00...processing table emails_text
+2022-06-08 05:26:00...dropping table emails_text
+2022-06-08 05:26:00...creating table emails_text
+2022-06-08 05:26:00...creating Relationship Meta for EmailText
+2022-06-08 05:26:00...processing table sugarfeed
+2022-06-08 05:26:00...dropping table sugarfeed
+2022-06-08 05:26:00...creating table sugarfeed
+2022-06-08 05:26:00...creating Relationship Meta for SugarFeed
+2022-06-08 05:26:00...processing table eapm
+2022-06-08 05:26:00...dropping table eapm
+2022-06-08 05:26:00...creating table eapm
+2022-06-08 05:26:00...creating Relationship Meta for EAPM
+2022-06-08 05:26:00...processing table oauth_consumer
+2022-06-08 05:26:00...dropping table oauth_consumer
+2022-06-08 05:26:00...creating table oauth_consumer
+2022-06-08 05:26:00...creating Relationship Meta for OAuthKey
+2022-06-08 05:26:00...processing table oauth_tokens
+2022-06-08 05:26:00...dropping table oauth_tokens
+2022-06-08 05:26:00...creating table oauth_tokens
+2022-06-08 05:26:00...creating Relationship Meta for OAuthToken
+2022-06-08 05:26:01...Begin creating Defaults
+2022-06-08 05:26:01...insert defaults into config table
+2022-06-08 05:26:01...Creating default users
+2022-06-08 05:26:01...Creating default scheduler jobs
+2022-06-08 05:26:01...Enable SugarFeeds
+2022-06-08 05:26:01...Enable InsideView Connector
+2022-06-08 05:26:01...Creating FTS logic hook
+2022-06-08 05:26:01...populating the db with seed data
+2022-06-08 05:26:01...Installation has completed *********
+2022-06-08 05:26:12...installerHook: Could not find custom/install/install_hooks.php
+2022-06-08 05:26:14...installerHook: Could not find custom/install/install_hooks.php
+2022-06-08 05:26:17...installerHook: Could not find custom/install/install_hooks.php

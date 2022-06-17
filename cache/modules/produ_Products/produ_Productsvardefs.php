@@ -208,7 +208,7 @@
     ),
     'price' => 
     array (
-      'required' => true,
+      'required' => false,
       'name' => 'price',
       'vname' => 'LBL_PRICE',
       'type' => 'int',

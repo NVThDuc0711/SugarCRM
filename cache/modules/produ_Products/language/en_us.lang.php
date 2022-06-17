@@ -1,5 +1,5 @@
 <?php
-// created: 2022-06-15 15:13:21
+// created: 2022-06-17 11:07:41
 $mod_strings = array (
   'LBL_ID' => 'ID',
   'LBL_DATE_ENTERED' => 'Date Created',
@@ -39,4 +39,8 @@ $mod_strings = array (
   'LBL_ID_PRODUCT' => 'id product',
   'LBL_QUICKCREATE_PANEL2' => 'Date',
   'LBL_EDITVIEW_PANEL3' => 'Date',
+  'LBL_PRICE_SALES' => 'price sales',
+  'LBL_ID_PRO' => 'ID pro',
+  'LBL_NAME_TEST' => 'Name Test',
+  'LBL_PRODUCT_ID' => 'ID product',
 );

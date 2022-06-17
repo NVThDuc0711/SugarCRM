@@ -9,20 +9,12 @@ array (
     'default' => true,
     'link' => true,
   ),
-  'PRICE' => 
+  'ASSIGNED_USER_NAME' => 
   array (
-    'type' => 'int',
-    'label' => 'LBL_PRICE',
-    'width' => '10%',
-    'default' => true,
-  ),
-  'CREATED_BY_NAME' => 
-  array (
-    'type' => 'relate',
-    'link' => true,
-    'label' => 'LBL_CREATED',
-    'id' => 'CREATED_BY',
-    'width' => '10%',
+    'width' => '9%',
+    'label' => 'LBL_ASSIGNED_TO_NAME',
+    'module' => 'Employees',
+    'id' => 'ASSIGNED_USER_ID',
     'default' => true,
   ),
   'DESCRIPTION' => 
@@ -33,36 +25,12 @@ array (
     'width' => '10%',
     'default' => true,
   ),
-  'DATE_ENTERED' => 
+  'PRICE' => 
   array (
-    'type' => 'datetime',
-    'label' => 'LBL_DATE_ENTERED',
+    'type' => 'int',
+    'label' => 'LBL_PRICE',
     'width' => '10%',
-    'default' => false,
-  ),
-  'DATE_MODIFIED' => 
-  array (
-    'type' => 'datetime',
-    'label' => 'LBL_DATE_MODIFIED',
-    'width' => '10%',
-    'default' => false,
-  ),
-  'MODIFIED_BY_NAME' => 
-  array (
-    'type' => 'relate',
-    'link' => true,
-    'label' => 'LBL_MODIFIED_NAME',
-    'id' => 'MODIFIED_USER_ID',
-    'width' => '10%',
-    'default' => false,
-  ),
-  'ASSIGNED_USER_NAME' => 
-  array (
-    'width' => '9%',
-    'label' => 'LBL_ASSIGNED_TO_NAME',
-    'module' => 'Employees',
-    'id' => 'ASSIGNED_USER_ID',
-    'default' => false,
+    'default' => true,
   ),
 );
 ?>

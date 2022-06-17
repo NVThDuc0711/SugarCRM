@@ -73,4 +73,8 @@ $mod_strings = array (
   'LBL_ID_PRODUCT' => 'id product',
   'LBL_QUICKCREATE_PANEL2' => 'Date',
   'LBL_EDITVIEW_PANEL3' => 'Date',
+  'LBL_PRICE_SALES' => 'price sales',
+  'LBL_ID_PRO' => 'ID pro',
+  'LBL_NAME_TEST' => 'Name Test',
+  'LBL_PRODUCT_ID' => 'ID product',
 );

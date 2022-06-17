@@ -42,7 +42,10 @@ array (
         0 => 
         array (
           0 => 'name',
-          1 => 
+        ),
+        1 => 
+        array (
+          0 => 
           array (
             'name' => 'price',
             'label' => 'LBL_PRICE',
